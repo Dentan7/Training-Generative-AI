@@ -19,14 +19,14 @@ Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan
 `Discriminative Model` mempelajari tentang batas antar kelas dalam kumpulan data. Dengan model diskriminatif, tujuannya adalah untuk mengidentifikasi batas keputusan antar kelas. Model diskriminatif memisahkan kelas dalam kumpulan data dengan menggunakan probabilitas bersyarat, tidak membuat asumsi apa pun tentang poin data individual.
 
 <div align="center">
-    <img src="Contents/discriminative-model.png" alt="Discriminative Model" width="1080" align="center">
+    <img src="Contents/discriminative-model.png" alt="Discriminative Model" width="960" align="center">
 </div>
 
 ### b. Generative Model
 `Generative Model` adalah rancangan AI yang berpusat pada distribusi kelas dalam dataset. Algoritma pembelajaran mesin biasanya memodelkan distribusi titik data. Model generatif bergantung pada penemuan probabilitas bersama. Membuat poin di mana fitur input yang diberikan dan output/label yang diinginkan ada secara bersamaan. Terdapat 3 model yang umum digunakan pada Generative AI di antaranya adalah `Diffusion Model`, `Variational Autoencoders (VAEs)`, dan `Generative Adversarial Networks (GANs)`
 
 <div align="center">
-    <img src="Contents/generative-model.png" alt="Generative Model" width="1080" align="center">
+    <img src="Contents/generative-model.png" alt="Generative Model" width="960" align="center">
 </div>
 
 #### b.1 Diffusion Model
@@ -37,7 +37,8 @@ Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan
 `Generative Adversarial Networks` bekerja dengan mencoba membuat data semirip mungkin dengan data nyata. Mereka menggunakan teknik seperti convolutional neural networks (CNN) untuk menghasilkan data baru. Kemudian model ini berusaha untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata. Mereka menggunakan teknik seperti `supervised learning` untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata.
 
 <div align="center">
-    <img src="Contents/discriminative-model.png" alt="Generative vs Discriminative" width="1080" align="center">
+    <img src="Contents/diagram-generative.png" alt="Generative vs Discriminative" width="560" align="center">
 </div>
 
-Source : [GANs — Generative Adversarial Networks](https://medium.com/devtechie/gans-generative-adversarial-networks-ced97548125e)
+## Referensi
+- [GANs — Generative Adversarial Networks](https://medium.com/devtechie/gans-generative-adversarial-networks-ced97548125e)
