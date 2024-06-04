@@ -28,6 +28,7 @@ Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan
     <img src="Contents/discriminative-model.png" alt="Discriminative Model" width="1080" align="center">
 </div>
 
+
 `Discriminative Model` adalah model yang mempelajari tentang batasan antar kelas dalam kumpulan data. Tujuan mdengan menggunakan model ini adalah untuk mengidentifikasi batas keputusan antar kelas. Model diskriminatif memisahkan kelas dalam kumpulan data dengan menggunakan probabilitas bersyarat, tidak membuat asumsi apa pun tentang poin data individual. Seperti pada gambar di bawah ini, apakah lukisan tersebut merupakan lukisan dari Van Gogh. Model diskriminatif digunakan untuk memprediksi label output berdasarkan sekumpulan fitur pada input.
 
 ### b. Generative Model
@@ -50,20 +51,20 @@ Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian
 #### b.2 Variational autoencoders (VAEs)
 
 <div align="center">
-    <img src="Contents/Autoencoders.png" alt="VAEs Model" width="1080" align="center">
+    <img src="Contents/VAEs2.jpg" alt="VAEs Model" width="1080" align="center">
 </div>
 
 `Variational Autoencoders (VAEs)` bekerja dengan cara mengkomunikasikan data asli ke dalam representasi terkompresi yang disebut ruang laten, kemudian mengembalikan data ke aslinya dengan mengambil sampel dari distribusi laten.
 #### b.3 Generative Adversarial Networks
 
 <div align="center">
-    <img src="Contents/GANs.png" alt="GANs Model" width="960" align="center">
+    <img src="Contents/GANs.png" alt="GANs Model" width="1080" align="center">
 </div>
 
 `Generative Adversarial Networks` bekerja dengan mencoba membuat data semirip mungkin dengan data nyata. Mereka menggunakan teknik seperti Convolutional Neural Networks (CNN) untuk menghasilkan data baru. Kemudian model ini berusaha untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata. Mereka menggunakan teknik seperti `supervised learning` untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata.
 
 <div align="center">
-    <img src="Contents/diagram-generative.png" alt="Generative vs Discriminative" width="560" align="center">
+    <img src="Contents/diagram-generative.png" alt="Generative vs Discriminative" width="720" align="center">
 </div>
 
 ## Referensi
