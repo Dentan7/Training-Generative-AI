@@ -41,21 +41,26 @@ Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan
 
 Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian pada Variational Autoencoders (VAEs) terdiri dari `encoder` dan `decoder` yang berfungsi untuk mengompres data menjadi variabel laten dan kemudian menghasilkan data baru. Lalu ada GANs terdiri dari dua neural network, yaitu `generator` dan `diskriminator`
 
-#### b.1 Diffusion Model
+<div align="center">
+    <img src="Contents/diagram-generative.png" alt="Generative vs Discriminative" width="720" align="center">
+</div>
+
+
+### b.1 Diffusion Model
 
 <div align="center">
     <img src="Contents/Diffusion.png" alt="Diffusion Model" width="1080" align="center">
 </div>
 
 `Diffusion Model` bekerja dengan cara menambahkan *noise* ke data pelatihan dan kemudian belajar bagaimana mengembalikan proses tersebut. Proses ini disebut sebagai "denoising" atau "reverse diffusion" dan digunakan untuk menghasilkan contoh baru yang mirip dengan data pelatihan.
-#### b.2 Variational autoencoders (VAEs)
+### b.2 Variational autoencoders (VAEs)
 
 <div align="center">
     <img src="Contents/VAEs2.jpg" alt="VAEs Model" width="1080" align="center">
 </div>
 
 `Variational Autoencoders (VAEs)` bekerja dengan cara mengkomunikasikan data asli ke dalam representasi terkompresi yang disebut ruang laten, kemudian mengembalikan data ke aslinya dengan mengambil sampel dari distribusi laten.
-#### b.3 Generative Adversarial Networks
+### b.3 Generative Adversarial Networks
 
 <div align="center">
     <img src="Contents/GANs.png" alt="GANs Model" width="1080" align="center">
@@ -63,9 +68,6 @@ Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian
 
 `Generative Adversarial Networks` bekerja dengan mencoba membuat data semirip mungkin dengan data nyata. Mereka menggunakan teknik seperti Convolutional Neural Networks (CNN) untuk menghasilkan data baru. Kemudian model ini berusaha untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata. Mereka menggunakan teknik seperti `supervised learning` untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata.
 
-<div align="center">
-    <img src="Contents/diagram-generative.png" alt="Generative vs Discriminative" width="720" align="center">
-</div>
 
 ## Referensi
 - [GANs — Generative Adversarial Networks](https://medium.com/devtechie/gans-generative-adversarial-networks-ced97548125e)
