@@ -1,9 +1,16 @@
-# Generative AI
+<h1 align="center">Generative AI</h1>
+
+
 <div align="center">
-    <img src="Contents/Generative AI.jpg" alt="Neural Network" width="1080" align="center">
+    <img src="Contents/frame.jpg" alt="Frame" width="1080" align="center">
 </div>
 
 ## 1. Apa itu Generative AI ?
+
+<div align="center">
+    <img src="Contents/generative-ai-diagram.png" alt="Generative AI Subset" width="720" align="center">
+</div>
+
 Generative Artificial Intelligence atau yang biasa dikenal juga dengan istilah Generative AI merupakan sebuah teknologi yang memungkinkan pengguna untuk menghasilkan konten baru berdasarkan input yang diberikan. Input dan output yang diinginkan dapat berupa `teks`, `gambar`, `suara`, `video`, dan bentuk data lainnya.
 
 ## 2. Bagaimana Cara Generative AI Bekerja?
