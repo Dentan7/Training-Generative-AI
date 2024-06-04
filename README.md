@@ -45,7 +45,7 @@ Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian
 #### b.2 Variational autoencoders (VAEs)
 `Variational Autoencoders (VAEs)` bekerja dengan cara mengkomunikasikan data asli ke dalam representasi terkompresi yang disebut ruang laten, kemudian mengembalikan data ke aslinya dengan mengambil sampel dari distribusi laten.
 #### b.3 Generative Adversarial Networks
-`Generative Adversarial Networks` bekerja dengan mencoba membuat data semirip mungkin dengan data nyata. Mereka menggunakan teknik seperti convolutional neural networks (CNN) untuk menghasilkan data baru. Kemudian model ini berusaha untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata. Mereka menggunakan teknik seperti `supervised learning` untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata.
+`Generative Adversarial Networks` bekerja dengan mencoba membuat data semirip mungkin dengan data nyata. Mereka menggunakan teknik seperti Convolutional Neural Networks (CNN) untuk menghasilkan data baru. Kemudian model ini berusaha untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata. Mereka menggunakan teknik seperti `supervised learning` untuk membedakan antara data yang dihasilkan oleh model generasi dan data nyata.
 
 <div align="center">
     <img src="Contents/diagram-generative.png" alt="Generative vs Discriminative" width="560" align="center">
