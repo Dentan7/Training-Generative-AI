@@ -42,7 +42,7 @@ Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan
 Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian pada Variational Autoencoders (VAEs) terdiri dari `encoder` dan `decoder` yang berfungsi untuk mengompres data menjadi variabel laten dan kemudian menghasilkan data baru. Lalu ada GANs terdiri dari dua neural network, yaitu `generator` dan `diskriminator`
 
 <div align="center">
-    <img src="Contents/diagram-generative.png" alt="Generative vs Discriminative" width="720" align="center">
+    <img src="Contents/diagram-generative.png" alt="Diagram" width="500" align="center">
 </div>
 
 
