@@ -53,3 +53,7 @@ Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian
 
 ## Referensi
 - [GANs — Generative Adversarial Networks](https://medium.com/devtechie/gans-generative-adversarial-networks-ced97548125e)
+
+<div align="center">Keperluan Magang</div>
+- [PPT Generative AI](https://www.canva.com/design/DAGHEDurLkE/nxlfouUEhaeGu-DLrsyUuQ/edit?utm_content=DAGHEDurLkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Code](https://colab.research.google.com/drive/1noTuQZB-aMlq6pz-sIdi-mng7aslaPnI?usp=sharing)
