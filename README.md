@@ -16,17 +16,17 @@ Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan
 </div>
 
 ### a. Discriminative Model
-`Discriminative Model` mempelajari tentang batas antar kelas dalam kumpulan data. Dengan model diskriminatif, tujuannya adalah untuk mengidentifikasi batas keputusan antar kelas. Model diskriminatif memisahkan kelas dalam kumpulan data dengan menggunakan probabilitas bersyarat, tidak membuat asumsi apa pun tentang poin data individual.
+`Discriminative Model` adalah model yang mempelajari tentang batasan antar kelas dalam kumpulan data. Tujuan mdengan menggunakan model ini adalah untuk mengidentifikasi batas keputusan antar kelas. Model diskriminatif memisahkan kelas dalam kumpulan data dengan menggunakan probabilitas bersyarat, tidak membuat asumsi apa pun tentang poin data individual. Seperti pada gambar di bawah ini, apakah lukisan tersebut merupakan lukisan dari Van Gogh. Model diskriminatif digunakan untuk memprediksi label output berdasarkan sekumpulan fitur pada input.
 
 <div align="center">
     <img src="Contents/discriminative-model.png" alt="Discriminative Model" width="960" align="center">
 </div>
 
 ### b. Generative Model
-`Generative Model` adalah rancangan AI yang berpusat pada distribusi kelas dalam dataset. Algoritma pembelajaran mesin biasanya memodelkan distribusi titik data. Model generatif bergantung pada penemuan probabilitas bersama. Membuat poin di mana fitur input yang diberikan dan output/label yang diinginkan ada secara bersamaan. Terdapat 3 model yang umum digunakan pada Generative AI di antaranya adalah `Diffusion Model`, `Variational Autoencoders (VAEs)`, dan `Generative Adversarial Networks (GANs)`
+`Generative Model` adalah rancangan AI yang berpusat pada distribusi kelas dalam dataset. Algoritma pembelajaran mesin biasanya memodelkan distribusi titik data. Model generatif bergantung pada penemuan probabilitas bersama. Membuat poin di mana fitur input yang diberikan dan output/label yang diinginkan ada secara bersamaan. Terdapat 3 model yang umum digunakan pada Generative AI di antaranya adalah `Diffusion Model`, `Variational Autoencoders (VAEs)`, dan `Generative Adversarial Networks (GANs)`. Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian pada Variational Autoencoders (VAEs) terdiri dari `encoder` dan `decoder` yang berfungsi untuk mengompres data menjadi variabel laten dan kemudian menghasilkan data baru. Lalu ada GANs terdiri dari dua neural network, yaitu `generator` dan `diskriminator`
 
 <div align="center">
-    <img src="Contents/generative-model.png" alt="Generative Model" width="960" align="center">
+    <img src="Contents/generative-model.png" alt="Generative Mo del" width="960" align="center">
 </div>
 
 #### b.1 Diffusion Model
