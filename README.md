@@ -26,7 +26,7 @@ Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan
 ### b. Generative Model
 
 <div align="center">
-    <img src="Contents/generative-model.png" alt="Generative Mo del" width="960" align="center">
+    <img src="Contents/generative-model2.png" alt="Generative Model" width="960" align="center">
 </div>
 
 `Generative Model` adalah rancangan AI yang berpusat pada distribusi kelas dalam dataset. Algoritma pembelajaran mesin biasanya memodelkan distribusi titik data. Model generatif bergantung pada penemuan probabilitas bersama. Membuat poin di mana fitur input yang diberikan dan output/label yang diinginkan ada secara bersamaan. Terdapat 3 model yang umum digunakan pada Generative AI di antaranya adalah `Diffusion Model`, `Variational Autoencoders (VAEs)`, dan `Generative Adversarial Networks (GANs)`.
