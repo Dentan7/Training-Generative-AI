@@ -12,6 +12,8 @@
 </div>
 
 Generative Artificial Intelligence atau yang biasa dikenal juga dengan istilah Generative AI merupakan sebuah teknologi yang memungkinkan pengguna untuk menghasilkan konten baru berdasarkan input yang diberikan. Input dan output yang diinginkan dapat berupa `teks`, `gambar`, `suara`, `video`, dan bentuk data lainnya.
+<br>
+Penggunan Generative AI sangatlah luas sekali dan banyak ragamnya, yang dimana dapat meningkatkan kualitas dan efisiensi dari konten. Berikut contoh penggunan Generative AI adalah seni dan desain, komposisi musik, pembuatan konten, dunia virtual, fashion, dan produk desain.
 
 ## 2. Bagaimana Cara Generative AI Bekerja?
 Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan struktur dalam data yang ada untuk menghasilkan konten baru dan asli. Untuk menghasilkan konten yang berkualitas diperlukan *train* data. Hal ini bertujuan untuk AI yang sedang dikembangkan dapat mempelajari data yang telah ada agar dapat menghasilkan konten yang berkualitas. Misalnya, dalam kasus GANs. Generator menciptakan gambar berdasarkan pola yang telah dipelajari dari data pelatihan. Konten yang dihasilkan tentunya tergantung dari *prompt* pengguna. Jika pengguna menginginkan hasil dalam bentuk artikel, maka hasil yang diberikan akan berbentuk artikel. Ada 3 hal penting untuk menyatakan bahwa Generative AI yang digunakan itu bekerja dengan baik di antaranya adalah kualitas, diversitas, dan kecepatan untuk menghasilkan konten dengan cepat.
