@@ -79,7 +79,7 @@ Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian
 - [VAEs: Indirect Sampling from Latent Image Distribution](https://medium.com/towards-data-science/these-are-not-real-clothes-af58154a98c2)
 - [GAN Lab](https://poloclub.github.io/ganlab/)
 
-<h2 align="center">Keperluan Magang</h2>
+<h2 align="center">Keperluan Hands-On</h2>
 
 - [PPT Generative AI](https://www.canva.com/design/DAGHEDurLkE/nxlfouUEhaeGu-DLrsyUuQ/edit?utm_content=DAGHEDurLkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Google Colab](https://colab.research.google.com/drive/1noTuQZB-aMlq6pz-sIdi-mng7aslaPnI?usp=sharing)
