@@ -72,9 +72,13 @@ Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian
 
 
 ## Referensi
+- [Pengertian Secara Umum](https://www.nvidia.com/en-us/glossary/generative-ai/)
 - [GANs — Generative Adversarial Networks](https://medium.com/devtechie/gans-generative-adversarial-networks-ced97548125e)
+- [Conditional Generative Adversarial Network (GAN) for Digit Generation. Your first steps towards GEN AI](https://medium.com/@etibaraliyev/conditional-generative-adversarial-network-gan-for-mnist-digit-generation-88eb5d8b28d4)
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239)
+- [VAEs: Indirect Sampling from Latent Image Distribution](https://medium.com/towards-data-science/these-are-not-real-clothes-af58154a98c2)
 
 <h2 align="center">Keperluan Magang</h2>
 
 - [PPT Generative AI](https://www.canva.com/design/DAGHEDurLkE/nxlfouUEhaeGu-DLrsyUuQ/edit?utm_content=DAGHEDurLkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Code](https://colab.research.google.com/drive/1noTuQZB-aMlq6pz-sIdi-mng7aslaPnI?usp=sharing)
+- [Google Colab](https://colab.research.google.com/drive/1noTuQZB-aMlq6pz-sIdi-mng7aslaPnI?usp=sharing)
