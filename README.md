@@ -31,7 +31,7 @@ Generative AI menggunakan model `jaringan saraf` untuk mengidentifikasi pola dan
 </div>
 
 
-`Discriminative Model` adalah model yang mempelajari tentang batasan antar kelas dalam kumpulan data. Tujuan mdengan menggunakan model ini adalah untuk mengidentifikasi batas keputusan antar kelas. Model diskriminatif memisahkan kelas dalam kumpulan data dengan menggunakan probabilitas bersyarat, tidak membuat asumsi apa pun tentang poin data individual. Seperti pada gambar di bawah ini, apakah lukisan tersebut merupakan lukisan dari Van Gogh. Model diskriminatif digunakan untuk memprediksi label output berdasarkan sekumpulan fitur pada input.
+`Discriminative Model` adalah model yang mempelajari tentang batasan antar kelas dalam kumpulan data. Tujuan mdengan enggunakan model ini adalah untuk mengidentifikasi batas keputusan antar kelas. Model diskriminatif memisahkan kelas dalam kumpulan data dengan menggunakan probabilitas bersyarat, tidak membuat asumsi apa pun tentang poin data individual. Seperti pada contoh, apakah lukisan tersebut merupakan lukisan dari Van Gogh. Model diskriminatif digunakan untuk memprediksi label output berdasarkan sekumpulan fitur pada input.
 
 ### b. Generative Model
 
