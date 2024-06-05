@@ -83,3 +83,5 @@ Pada diffusion model terdapat proses `difusi maju` dan `difusi mundur`. Kemudian
 
 - [PPT Generative AI](https://www.canva.com/design/DAGHEDurLkE/nxlfouUEhaeGu-DLrsyUuQ/edit?utm_content=DAGHEDurLkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Google Colab](https://colab.research.google.com/drive/1noTuQZB-aMlq6pz-sIdi-mng7aslaPnI?usp=sharing)
+- [Kaggle](http://www.kaggle.com)
+- [Wandb](https://wandb.ai)
